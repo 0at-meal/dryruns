@@ -12,22 +12,9 @@ Most real ML work happens under constraints: limited time, messy data, no extern
 
 Each folder is one self-contained rep: a problem, a time box, a notebook, and a short note on what worked and what didn't.
 
-```
-dryruns/
-├── rep-01/
-├── rep-02/
-├── rep-03/
-├── data/            # downloaded per-rep, not committed
-├── playbook.md      
-└── requirements.txt
-```
-
 ## Data
 
 Not committed. Each rep documents how to fetch its own dataset; only small samples (if any) are checked in for smoke-testing.
 
-## Progress log
+## Progress log: (to be updated...)
 
-| Rep | Constraint | Score | Time taken | Notes |
-|-----|------------|-------|------------|-------|
-|     |            |       |            |       |
